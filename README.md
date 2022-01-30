@@ -38,9 +38,8 @@
 <br/>
 <br/>
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwn7777&show_icons=true&theme=dark)<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwn7777&show_icons=true&theme=highcontrast" />
-</a>
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwn7777&show_icons=true&theme=highcontrast)<a href="https://git.io/streak-stats">
+
 <br/>
 
 <br/>
