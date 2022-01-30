@@ -53,6 +53,7 @@
   <br/>
   
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t3yoq6ua4e6d2ftwafiie6zayq)
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 
 [twitter]: https://twitter.com/carlos_dawning
 [youtube]: https://youtube.com/carlos_dawning
