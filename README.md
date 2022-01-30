@@ -41,7 +41,9 @@
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwn7777&show_icons=true&theme=highcontrast)<a href="https://git.io/streak-stats">
 
 <br/>
-
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwn7777&theme=highcontrast" />
+</a>
 <br/>
 
 [twitter]: https://twitter.com/carlos_dawning
