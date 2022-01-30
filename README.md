@@ -51,6 +51,7 @@
 </a>
 <br/>
   <br/>
+  
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t3yoq6ua4e6d2ftwafiie6zayq)
 
 [twitter]: https://twitter.com/carlos_dawning
