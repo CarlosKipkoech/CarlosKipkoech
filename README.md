@@ -50,7 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwn7777&theme=highcontrast&layout=compact" />
 </a>
   
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=carloskipkoech)
 
 [twitter]: https://twitter.com/carlos_dawning
 [youtube]: https://youtube.com/carlos_dawning
