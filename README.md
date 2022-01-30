@@ -49,7 +49,8 @@
   <a href="https://github.com/dwn7777/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwn7777&theme=highcontrast&layout=compact" />
 </a>
-  <___/>
+<br/>
+  <br/>
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t3yoq6ua4e6d2ftwafiie6zayq)
 
 [twitter]: https://twitter.com/carlos_dawning
