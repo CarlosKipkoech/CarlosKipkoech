@@ -1,4 +1,11 @@
 ### 👋 Hi there, I'm Carlos Kipkoech
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Focus-Android-yellowgreen" />
+  <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
+  <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
+
+</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlos_dawning?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcarlos_dawning&screen_name=carlos_dawning)
 
