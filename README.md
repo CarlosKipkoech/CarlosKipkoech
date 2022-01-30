@@ -50,9 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwn7777&theme=highcontrast&layout=compact" />
 </a>
   
-  <a href="https://git.io/streak-stats">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31t3yoq6ua4e6d2ftwafiie6zayq" />
-</a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t3yoq6ua4e6d2ftwafiie6zayq&width={width})
 
 [twitter]: https://twitter.com/carlos_dawning
 [youtube]: https://youtube.com/carlos_dawning
