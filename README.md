@@ -45,6 +45,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwn7777&theme=highcontrast" />
 </a>
 <br/>
+  <a href="https://github.com/dwn7777/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwn7777&theme=highcontrast&layout=compact" />
+</a>
 
 [twitter]: https://twitter.com/carlos_dawning
 [youtube]: https://youtube.com/carlos_dawning
