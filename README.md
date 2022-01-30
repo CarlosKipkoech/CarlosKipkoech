@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Carlos Kipkoech
-<p align="center">
+<p align="start">
 
   <img src="https://img.shields.io/badge/Focus-Android-yellowgreen" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
