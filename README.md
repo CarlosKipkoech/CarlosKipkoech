@@ -38,16 +38,16 @@
 <br/>
 <br/>
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwn7777&show_icons=true&theme=highcontrast)<a href="https://git.io/streak-stats">
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosKipkoech&show_icons=true&theme=highcontrast)<a href="https://git.io/streak-stats">
 
 <br/>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwn7777&theme=highcontrast" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosKipkoech&theme=highcontrast" />
 </a>
 <br/>
   <br/>
-  <a href="https://github.com/dwn7777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwn7777&theme=highcontrast&layout=compact" />
+  <a href="https://github.com/CarlosKipkoech/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosKipkoech&theme=highcontrast&layout=compact" />
 </a>
 <br/>
   <br/>
