@@ -45,8 +45,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosKipkoech&theme=highcontrast" />
 </a>
 <br/>
-  <br/>
-  <a href="https://github.com/CarlosKipkoech/github-readme-stats">
+  <a href="  <br/>https://github-readme-stats.vercel.app/api?username=CarlosKipkoech
+">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosKipkoech&theme=highcontrast&layout=compact" />
 </a>
 <br/>
