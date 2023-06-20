@@ -9,7 +9,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlos_dawning?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcarlos_dawning&screen_name=carlos_dawning)
 
-## I'm an Android Developer
+## I'm an Software Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
