@@ -2,7 +2,7 @@
 <p align="start">
 
   <img src="https://img.shields.io/badge/Focus-Android-yellowgreen" />
-  <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
+
   <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
 
 </p>
